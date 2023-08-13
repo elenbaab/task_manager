@@ -16,5 +16,4 @@ Additional Features:
     - Tasks are orders on home page based on creation time, most recent to oldest.
     - The driver file (app.js) contains a heap of comments for future reference to understand the functionality of the libraries used, and the command options.
 
-
-    test
+test
